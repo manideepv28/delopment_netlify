@@ -968,12 +968,15 @@ def deploy_to_render(repo_path: str, repo_url: str) -> Optional[str]:
         logger.error(f"Failed to deploy {repo_url} to Render: {e}")
         return None
 
-def enable_github_pages(repo_url: str) -> Optional[str]:
+def enable_github_pages(repo_url: str, repo_path: Optional[str] = None) -> Optional[str]:
     """
-    Enable GitHub Pages for a repository.
+    Enable GitHub Pages for a repository and prepare the repository for GitHub Pages deployment.
+    For TypeScript/JavaScript repositories with frameworks like React, Next.js, or Vite,
+    this function will create a proper GitHub Pages configuration.
     
     Args:
         repo_url: URL of the GitHub repository
+        repo_path: Local path to the cloned repository (if available)
         
     Returns:
         GitHub Pages URL or None if enabling failed
@@ -1000,6 +1003,153 @@ def enable_github_pages(repo_url: str) -> Optional[str]:
             "Authorization": f"token {GITHUB_TOKEN}",
             "Accept": "application/vnd.github.v3+json"
         }
+        
+        # If we have a local repo path, prepare it for GitHub Pages
+        if repo_path and os.path.exists(repo_path):
+            logger.info(f"Preparing repository for GitHub Pages deployment: {repo_path}")
+            
+            # Detect the framework
+            framework = detect_framework(repo_path)
+            logger.info(f"Detected framework: {framework}")
+            
+            # Check if it's a JavaScript/TypeScript project with package.json
+            package_json_path = os.path.join(repo_path, "package.json")
+            if os.path.exists(package_json_path):
+                try:
+                    with open(package_json_path, 'r') as f:
+                        package_data = json.load(f)
+                    
+                    # Create a GitHub workflow file for GitHub Pages deployment
+                    workflows_dir = os.path.join(repo_path, ".github", "workflows")
+                    os.makedirs(workflows_dir, exist_ok=True)
+                    
+                    # Determine the build command and output directory based on the framework
+                    build_command = "npm run build"
+                    output_dir = "build"
+                    base_path = f"/{repo_name}/"
+                    
+                    if framework == "nextjs":
+                        # Next.js requires special configuration for GitHub Pages
+                        output_dir = "out"
+                        
+                        # Add export script to package.json if it doesn't exist
+                        if "scripts" in package_data and "build" in package_data["scripts"]:
+                            if "export" not in package_data["scripts"]:
+                                package_data["scripts"]["export"] = "next export"
+                            build_command = "npm run build && npm run export"
+                        
+                        # Create or update next.config.js for GitHub Pages
+                        next_config_path = os.path.join(repo_path, "next.config.js")
+                        next_config_content = """/** @type {{output: string, basePath: string, assetPrefix: string}} */
+const nextConfig = {
+  output: 'export',
+  basePath: '" + base_path + "',
+  assetPrefix: '" + base_path + "',
+  images: {
+    unoptimized: true,
+  },
+};
+
+module.exports = nextConfig;
+"""
+                        
+                        with open(next_config_path, 'w') as f:
+                            f.write(next_config_content)
+                        
+                        logger.info("Created Next.js configuration for GitHub Pages")
+                    
+                    elif framework == "create-react-app":
+                        # Create React App needs homepage in package.json
+                        package_data["homepage"] = pages_url
+                        
+                        # Update package.json
+                        with open(package_json_path, 'w') as f:
+                            json.dump(package_data, f, indent=2)
+                        
+                        logger.info("Updated package.json with homepage for GitHub Pages")
+                    
+                    elif "vite" in package_data.get("devDependencies", {}) or "vite" in package_data.get("dependencies", {}):
+                        # Vite project needs vite.config.js update
+                        vite_config_path = None
+                        for config_name in ["vite.config.js", "vite.config.ts"]:
+                            if os.path.exists(os.path.join(repo_path, config_name)):
+                                vite_config_path = os.path.join(repo_path, config_name)
+                                break
+                        
+                        if vite_config_path:
+                            # Read existing config
+                            with open(vite_config_path, 'r') as f:
+                                vite_config = f.read()
+                            
+                            # Add base config if not present
+                            if "base:" not in vite_config and "base =" not in vite_config:
+                                # Simple string replacement to add base config
+                                if "export default" in vite_config:
+                                    base_config = "export default {\n  base: '" + base_path + "',"
+                                    vite_config = vite_config.replace("export default", base_config)
+                                    vite_config = vite_config.replace("export default {", "export default {\n  base: '" + base_path + "',")
+                                
+                                with open(vite_config_path, 'w') as f:
+                                    f.write(vite_config)
+                                
+                                logger.info(f"Updated Vite config with base path: {base_path}")
+                    
+                    # Create GitHub Actions workflow file for building and deploying
+                    workflow_file = os.path.join(workflows_dir, "github-pages-deploy.yml")
+                    workflow_content = """name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
+      - name: Build
+        run: """ + build_command + """
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./""" + output_dir + """
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+"""
+                    with open(workflow_file, 'w') as f:
+                        f.write(workflow_content)
+                    
+                    logger.info(f"Created GitHub Actions workflow file for {framework} deployment")
+                    
+                except Exception as e:
+                    logger.error(f"Error preparing repository for GitHub Pages: {e}")
         
         # Check if GitHub Pages is already enabled
         while True:
@@ -1042,13 +1192,34 @@ def enable_github_pages(repo_url: str) -> Optional[str]:
         
         # Enable GitHub Pages from the default branch
         rate_limit_handler.reset()
+        
+        # For modern JS frameworks, we'll use GitHub Actions for deployment
+        # So we'll enable GitHub Pages with the gh-pages branch if it exists
+        # or the default branch if not
+        
+        # First check if gh-pages branch exists
+        branch_to_use = default_branch
+        path_to_use = "/"
+        
+        try:
+            branch_response = requests.get(
+                f"{GITHUB_API_URL}/repos/{owner}/{repo_name}/branches/gh-pages",
+                headers=headers
+            )
+            if branch_response.status_code == 200:
+                branch_to_use = "gh-pages"
+                path_to_use = "/"
+        except Exception as e:
+            logger.debug(f"Error checking for gh-pages branch: {e}")
+            # Continue with default branch
+        
         while True:
             enable_response = requests.post(
                 f"{GITHUB_API_URL}/repos/{owner}/{repo_name}/pages",
                 json={
                     "source": {
-                        "branch": default_branch,
-                        "path": "/"
+                        "branch": branch_to_use,
+                        "path": path_to_use
                     }
                 },
                 headers=headers
@@ -1056,6 +1227,7 @@ def enable_github_pages(repo_url: str) -> Optional[str]:
             
             if enable_response.status_code in (201, 204):
                 logger.info(f"Successfully enabled GitHub Pages for {repo_url} at {pages_url}")
+                logger.info(f"Note: For JavaScript frameworks, the site may take a few minutes to build and deploy")
                 return pages_url
                 
             if rate_limit_handler.should_retry(enable_response.status_code):
@@ -1162,7 +1334,7 @@ def process_repositories(repo_list: List[str], output_csv: str, platforms: List[
                         hosted_url = deploy_to_render(repo_path, repo_url)
                         platform_used = "render"
                     elif platform == "github" and "github" in platforms:
-                        hosted_url = enable_github_pages(repo_url)
+                        hosted_url = enable_github_pages(repo_url, repo_path)
                         platform_used = "github"
                     
                     if hosted_url:
