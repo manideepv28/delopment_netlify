@@ -1,0 +1,1157 @@
+2025-05-09 18:51:35,452 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 18:51:37,886 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 18:51:38,466 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 18:51:38,877 - repo-hosting - INFO - Using platforms: netlify
+2025-05-09 18:51:38,877 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 18:51:38,878 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 18:51:38,878 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 10s
+2025-05-09 18:51:38,903 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 18:51:39,327 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\shopwave1
+2025-05-09 18:51:40,306 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to netlify
+2025-05-09 18:51:40,307 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:51:40,315 - repo-hosting - INFO - Creating Netlify site: shopwave1-1746796900
+2025-05-09 18:51:41,966 - repo-hosting - INFO - Created Netlify site: https://shopwave1-1746796900.netlify.app
+2025-05-09 18:51:41,968 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\shopwave1-master
+2025-05-09 18:51:43,067 - repo-hosting - INFO - Created zip file: 0.53 MB / 90 MB
+2025-05-09 18:51:43,067 - repo-hosting - INFO - Deploying to Netlify site: d8765088-13a1-4c05-bdcc-bb8083d4cd4e
+2025-05-09 18:51:44,774 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/shopwave1.git to http://681e0168bb6d09dc4712ba20--shopwave1-1746796900.netlify.app
+2025-05-09 18:51:44,776 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/shopwave1.git to netlify at http://681e0168bb6d09dc4712ba20--shopwave1-1746796900.netlify.app
+2025-05-09 18:51:44,811 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/budgetview.git
+2025-05-09 18:51:55,238 - repo-hosting - INFO - Downloading https://github.com/manideepv28/budgetview.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\budgetview
+2025-05-09 18:51:56,189 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/budgetview.git to netlify
+2025-05-09 18:51:56,190 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:51:56,196 - repo-hosting - INFO - Creating Netlify site: budgetview-1746796916
+2025-05-09 18:51:57,811 - repo-hosting - INFO - Created Netlify site: https://budgetview-1746796916.netlify.app
+2025-05-09 18:51:57,812 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\budgetview-master
+2025-05-09 18:51:58,299 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:51:58,299 - repo-hosting - INFO - Deploying to Netlify site: 0e303402-83ea-4714-a0e6-c054e2913fe3
+2025-05-09 18:52:00,043 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/budgetview.git to http://681e01776b863a997ba8e80d--budgetview-1746796916.netlify.app
+2025-05-09 18:52:00,044 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/budgetview.git to netlify at http://681e01776b863a997ba8e80d--budgetview-1746796916.netlify.app
+2025-05-09 18:52:00,046 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 18:52:10,442 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\careerlink
+2025-05-09 18:52:11,766 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to netlify
+2025-05-09 18:52:11,771 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:52:11,782 - repo-hosting - INFO - Creating Netlify site: careerlink-1746796931
+2025-05-09 18:52:13,427 - repo-hosting - INFO - Created Netlify site: https://careerlink-1746796931.netlify.app
+2025-05-09 18:52:13,429 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\careerlink-master
+2025-05-09 18:52:13,772 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:52:13,773 - repo-hosting - INFO - Deploying to Netlify site: 87f44649-d3ff-475d-9048-0c4951acc243
+2025-05-09 18:52:15,453 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to http://681e01879490e1e0eebf1a73--careerlink-1746796931.netlify.app
+2025-05-09 18:52:15,457 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to netlify at http://681e01879490e1e0eebf1a73--careerlink-1746796931.netlify.app
+2025-05-09 18:52:15,464 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 18:52:25,852 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\careerlink
+2025-05-09 18:52:26,746 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to netlify
+2025-05-09 18:52:26,747 - repo-hosting - INFO - Found index.html in repository root
+2025-05-09 18:52:26,747 - repo-hosting - INFO - Creating Netlify site: careerlink-1746796946
+2025-05-09 18:52:28,406 - repo-hosting - INFO - Created Netlify site: https://careerlink-1746796946.netlify.app
+2025-05-09 18:52:28,407 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\careerlink-master
+2025-05-09 18:52:28,582 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:52:28,582 - repo-hosting - INFO - Deploying to Netlify site: 64cd3b0e-2d5b-49eb-a13e-3f08a01e0a96
+2025-05-09 18:52:30,336 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to http://681e0196e296b884d8e2a638--careerlink-1746796946.netlify.app
+2025-05-09 18:52:30,341 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to netlify at http://681e0196e296b884d8e2a638--careerlink-1746796946.netlify.app
+2025-05-09 18:52:30,350 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/stockpilot.git
+2025-05-09 18:52:40,794 - repo-hosting - INFO - Downloading https://github.com/manideepv28/stockpilot.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\stockpilot
+2025-05-09 18:52:41,738 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/stockpilot.git to netlify
+2025-05-09 18:52:41,739 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:52:41,743 - repo-hosting - INFO - Creating Netlify site: stockpilot-1746796961
+2025-05-09 18:52:43,453 - repo-hosting - INFO - Created Netlify site: https://stockpilot-1746796961.netlify.app
+2025-05-09 18:52:43,453 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\stockpilot-master
+2025-05-09 18:52:44,143 - repo-hosting - INFO - Created zip file: 0.52 MB / 90 MB
+2025-05-09 18:52:44,143 - repo-hosting - INFO - Deploying to Netlify site: d47c9d75-7b38-4756-a2bf-80b43c44722c
+2025-05-09 18:52:45,872 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/stockpilot.git to http://681e01a5bb6d09dbe212bb90--stockpilot-1746796961.netlify.app
+2025-05-09 18:52:45,873 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/stockpilot.git to netlify at http://681e01a5bb6d09dbe212bb90--stockpilot-1746796961.netlify.app
+2025-05-09 18:52:45,875 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/quillcraft.git
+2025-05-09 18:52:56,279 - repo-hosting - INFO - Downloading https://github.com/manideepv28/quillcraft.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\quillcraft
+2025-05-09 18:52:57,289 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/quillcraft.git to netlify
+2025-05-09 18:52:57,290 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:52:57,300 - repo-hosting - INFO - Creating Netlify site: quillcraft-1746796977
+2025-05-09 18:52:58,259 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:53:05,019 - repo-hosting - INFO - Created Netlify site: https://quillcraft-1746796977.netlify.app
+2025-05-09 18:53:05,020 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\quillcraft-master
+2025-05-09 18:53:05,402 - repo-hosting - INFO - Created zip file: 0.57 MB / 90 MB
+2025-05-09 18:53:05,402 - repo-hosting - INFO - Deploying to Netlify site: c3d75c40-2b95-42b6-9ead-aea4c7adc6c3
+2025-05-09 18:53:07,100 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/quillcraft.git to http://681e01baf4cb0ec603730bd8--quillcraft-1746796977.netlify.app
+2025-05-09 18:53:07,102 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/quillcraft.git to netlify at http://681e01baf4cb0ec603730bd8--quillcraft-1746796977.netlify.app
+2025-05-09 18:53:07,109 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/weatherwise.git
+2025-05-09 18:53:17,489 - repo-hosting - INFO - Downloading https://github.com/manideepv28/weatherwise.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\weatherwise
+2025-05-09 18:53:18,362 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/weatherwise.git to netlify
+2025-05-09 18:53:18,364 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:53:18,369 - repo-hosting - INFO - Creating Netlify site: weatherwise-1746796998
+2025-05-09 18:53:19,994 - repo-hosting - INFO - Created Netlify site: https://weatherwise-1746796998.netlify.app
+2025-05-09 18:53:19,995 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\weatherwise-master
+2025-05-09 18:53:20,301 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:53:20,302 - repo-hosting - INFO - Deploying to Netlify site: 809cca38-66eb-4b47-849a-18f272368445
+2025-05-09 18:53:21,994 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/weatherwise.git to http://681e01c99490e1e0eebf1cec--weatherwise-1746796998.netlify.app
+2025-05-09 18:53:21,995 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/weatherwise.git to netlify at http://681e01c99490e1e0eebf1cec--weatherwise-1746796998.netlify.app
+2025-05-09 18:53:22,000 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/supportzen.git
+2025-05-09 18:53:32,426 - repo-hosting - INFO - Downloading https://github.com/manideepv28/supportzen.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\supportzen
+2025-05-09 18:53:33,396 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/supportzen.git to netlify
+2025-05-09 18:53:33,397 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:53:33,401 - repo-hosting - INFO - Creating Netlify site: supportzen-1746797013
+2025-05-09 18:53:35,036 - repo-hosting - INFO - Created Netlify site: https://supportzen-1746797013.netlify.app
+2025-05-09 18:53:35,037 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\supportzen-master
+2025-05-09 18:53:35,411 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:53:35,411 - repo-hosting - INFO - Deploying to Netlify site: cc7df14d-8bd5-461e-98ce-5e8256aa3a05
+2025-05-09 18:53:37,108 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/supportzen.git to http://681e01d8e296b8852de2a67f--supportzen-1746797013.netlify.app
+2025-05-09 18:53:37,109 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/supportzen.git to netlify at http://681e01d8e296b8852de2a67f--supportzen-1746797013.netlify.app
+2025-05-09 18:53:37,115 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/supportzen1.git
+2025-05-09 18:53:47,524 - repo-hosting - INFO - Downloading https://github.com/manideepv28/supportzen1.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\supportzen1
+2025-05-09 18:53:48,572 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/supportzen1.git to netlify
+2025-05-09 18:53:48,572 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:53:48,580 - repo-hosting - INFO - Creating Netlify site: supportzen1-1746797028
+2025-05-09 18:53:49,676 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:53:55,636 - repo-hosting - INFO - Rate limit hit for netlify, waiting 10 seconds before retry...
+2025-05-09 18:54:07,282 - repo-hosting - INFO - Created Netlify site: https://supportzen1-1746797028.netlify.app
+2025-05-09 18:54:07,283 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\supportzen1-master
+2025-05-09 18:54:07,818 - repo-hosting - INFO - Created zip file: 0.56 MB / 90 MB
+2025-05-09 18:54:07,818 - repo-hosting - INFO - Deploying to Netlify site: 8858ac5d-9aef-406c-aa5b-a393fec00acd
+2025-05-09 18:54:09,486 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/supportzen1.git to http://681e01f99356f2d82cc2ac37--supportzen1-1746797028.netlify.app
+2025-05-09 18:54:09,486 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/supportzen1.git to netlify at http://681e01f99356f2d82cc2ac37--supportzen1-1746797028.netlify.app
+2025-05-09 18:54:09,490 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/eventide.git
+2025-05-09 18:54:19,923 - repo-hosting - INFO - Downloading https://github.com/manideepv28/eventide.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\eventide
+2025-05-09 18:54:20,905 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/eventide.git to netlify
+2025-05-09 18:54:20,907 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:54:20,916 - repo-hosting - INFO - Creating Netlify site: eventide-1746797060
+2025-05-09 18:54:22,547 - repo-hosting - INFO - Created Netlify site: https://eventide-1746797060.netlify.app
+2025-05-09 18:54:22,548 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\eventide-master
+2025-05-09 18:54:22,911 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:54:22,912 - repo-hosting - INFO - Deploying to Netlify site: 7bb18282-9a0b-484b-b33e-98ebf24bf3b5
+2025-05-09 18:54:24,651 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/eventide.git to http://681e0208f162b66c9fac4da0--eventide-1746797060.netlify.app
+2025-05-09 18:54:24,651 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/eventide.git to netlify at http://681e0208f162b66c9fac4da0--eventide-1746797060.netlify.app
+2025-05-09 18:54:24,655 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/Global-Nuptials-Connect.git
+2025-05-09 18:54:35,090 - repo-hosting - INFO - Downloading https://github.com/manideepv28/Global-Nuptials-Connect.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\Global-Nuptials-Connect
+2025-05-09 18:54:36,048 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/Global-Nuptials-Connect.git to netlify
+2025-05-09 18:54:36,050 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:54:36,058 - repo-hosting - INFO - Creating Netlify site: global-nuptials-connect-1746797076
+2025-05-09 18:54:37,706 - repo-hosting - INFO - Created Netlify site: https://global-nuptials-connect-1746797076.netlify.app
+2025-05-09 18:54:37,706 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\Global-Nuptials-Connect-master
+2025-05-09 18:54:38,192 - repo-hosting - INFO - Created zip file: 0.53 MB / 90 MB
+2025-05-09 18:54:38,193 - repo-hosting - INFO - Deploying to Netlify site: 88c7549e-0217-4b77-a71c-8f8a147ccbff
+2025-05-09 18:54:39,923 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Global-Nuptials-Connect.git to http://681e0217f9e4f8e0d100ccbf--global-nuptials-connect-1746797076.netlify.app
+2025-05-09 18:54:39,925 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Global-Nuptials-Connect.git to netlify at http://681e0217f9e4f8e0d100ccbf--global-nuptials-connect-1746797076.netlify.app
+2025-05-09 18:54:39,937 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/learnswift.git
+2025-05-09 18:54:50,395 - repo-hosting - INFO - Downloading https://github.com/manideepv28/learnswift.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\learnswift
+2025-05-09 18:54:51,359 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/learnswift.git to netlify
+2025-05-09 18:54:51,360 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:54:51,367 - repo-hosting - INFO - Creating Netlify site: learnswift-1746797091
+2025-05-09 18:54:52,386 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:54:58,380 - repo-hosting - INFO - Rate limit hit for netlify, waiting 10 seconds before retry...
+2025-05-09 18:55:10,000 - repo-hosting - INFO - Created Netlify site: https://learnswift-1746797091.netlify.app
+2025-05-09 18:55:10,001 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\learnswift-master
+2025-05-09 18:55:10,337 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:55:10,338 - repo-hosting - INFO - Deploying to Netlify site: abc7a7e4-ccfc-4d14-9489-6500089c49bd
+2025-05-09 18:55:12,007 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/learnswift.git to http://681e0237e296b887ace2a687--learnswift-1746797091.netlify.app
+2025-05-09 18:55:12,009 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/learnswift.git to netlify at http://681e0237e296b887ace2a687--learnswift-1746797091.netlify.app
+2025-05-09 18:55:12,016 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/CodeLeap.git
+2025-05-09 18:55:22,459 - repo-hosting - INFO - Downloading https://github.com/manideepv28/CodeLeap.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\CodeLeap
+2025-05-09 18:55:23,600 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/CodeLeap.git to netlify
+2025-05-09 18:55:23,601 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:55:23,608 - repo-hosting - INFO - Creating Netlify site: codeleap-1746797123
+2025-05-09 18:55:25,304 - repo-hosting - INFO - Created Netlify site: https://codeleap-1746797123.netlify.app
+2025-05-09 18:55:25,306 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\CodeLeap-master
+2025-05-09 18:55:25,829 - repo-hosting - INFO - Created zip file: 0.54 MB / 90 MB
+2025-05-09 18:55:25,829 - repo-hosting - INFO - Deploying to Netlify site: b2546ccd-b68b-4ae6-85ad-c2477b766e55
+2025-05-09 18:55:27,636 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/CodeLeap.git to http://681e02479767247ef1c93690--codeleap-1746797123.netlify.app
+2025-05-09 18:55:27,639 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/CodeLeap.git to netlify at http://681e02479767247ef1c93690--codeleap-1746797123.netlify.app
+2025-05-09 18:55:27,648 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/textcraftaiplayground.git
+2025-05-09 18:55:38,029 - repo-hosting - INFO - Downloading https://github.com/manideepv28/textcraftaiplayground.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\textcraftaiplayground
+2025-05-09 18:55:39,112 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/textcraftaiplayground.git to netlify
+2025-05-09 18:55:39,112 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:55:39,117 - repo-hosting - INFO - Creating Netlify site: textcraftaiplayground-1746797139
+2025-05-09 18:55:40,756 - repo-hosting - INFO - Created Netlify site: https://textcraftaiplayground-1746797139.netlify.app
+2025-05-09 18:55:40,756 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\textcraftaiplayground-master
+2025-05-09 18:55:41,007 - repo-hosting - INFO - Created zip file: 0.49 MB / 90 MB
+2025-05-09 18:55:41,007 - repo-hosting - INFO - Deploying to Netlify site: e509a483-8bcf-43cd-9c50-a13e5b3e127d
+2025-05-09 18:55:42,717 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/textcraftaiplayground.git to http://681e0256f162b66ebfac4ed5--textcraftaiplayground-1746797139.netlify.app
+2025-05-09 18:55:42,717 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/textcraftaiplayground.git to netlify at http://681e0256f162b66ebfac4ed5--textcraftaiplayground-1746797139.netlify.app
+2025-05-09 18:55:42,720 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/VersatileAI.git
+2025-05-09 18:55:53,159 - repo-hosting - INFO - Downloading https://github.com/manideepv28/VersatileAI.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\VersatileAI
+2025-05-09 18:55:54,250 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/VersatileAI.git to netlify
+2025-05-09 18:55:54,251 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:55:54,257 - repo-hosting - INFO - Creating Netlify site: versatileai-1746797154
+2025-05-09 18:55:55,186 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:56:01,818 - repo-hosting - INFO - Created Netlify site: https://versatileai-1746797154.netlify.app
+2025-05-09 18:56:01,818 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\VersatileAI-master
+2025-05-09 18:56:02,292 - repo-hosting - INFO - Created zip file: 0.52 MB / 90 MB
+2025-05-09 18:56:02,292 - repo-hosting - INFO - Deploying to Netlify site: b18e877c-210f-4b40-ac7f-ead5675740fa
+2025-05-09 18:56:04,040 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/VersatileAI.git to http://681e026bc8b548de06e901c0--versatileai-1746797154.netlify.app
+2025-05-09 18:56:04,041 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/VersatileAI.git to netlify at http://681e026bc8b548de06e901c0--versatileai-1746797154.netlify.app
+2025-05-09 18:56:04,045 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/streamview.git
+2025-05-09 18:56:14,439 - repo-hosting - INFO - Downloading https://github.com/manideepv28/streamview.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\streamview
+2025-05-09 18:56:15,495 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/streamview.git to netlify
+2025-05-09 18:56:15,496 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:56:15,501 - repo-hosting - INFO - Creating Netlify site: streamview-1746797175
+2025-05-09 18:56:17,135 - repo-hosting - INFO - Created Netlify site: https://streamview-1746797175.netlify.app
+2025-05-09 18:56:17,136 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\streamview-master
+2025-05-09 18:56:17,508 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:56:17,508 - repo-hosting - INFO - Deploying to Netlify site: 4a5dd852-6729-4fe5-a916-602e8c1ba5fc
+2025-05-09 18:56:19,208 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/streamview.git to http://681e027b9356f2d82cc2ae4b--streamview-1746797175.netlify.app
+2025-05-09 18:56:19,211 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/streamview.git to netlify at http://681e027b9356f2d82cc2ae4b--streamview-1746797175.netlify.app
+2025-05-09 18:56:19,219 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/Reel-Sounds.git
+2025-05-09 18:56:29,597 - repo-hosting - INFO - Downloading https://github.com/manideepv28/Reel-Sounds.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\Reel-Sounds
+2025-05-09 18:56:30,506 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/Reel-Sounds.git to netlify
+2025-05-09 18:56:30,507 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:56:30,512 - repo-hosting - INFO - Creating Netlify site: reel-sounds-1746797190
+2025-05-09 18:56:32,149 - repo-hosting - INFO - Created Netlify site: https://reel-sounds-1746797190.netlify.app
+2025-05-09 18:56:32,150 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\Reel-Sounds-master
+2025-05-09 18:56:32,505 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:56:32,505 - repo-hosting - INFO - Deploying to Netlify site: f5dd1c60-10f8-4a36-921a-5ec85675d857
+2025-05-09 18:56:34,187 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Reel-Sounds.git to http://681e028aff7cb39db278427b--reel-sounds-1746797190.netlify.app
+2025-05-09 18:56:34,190 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Reel-Sounds.git to netlify at http://681e028aff7cb39db278427b--reel-sounds-1746797190.netlify.app
+2025-05-09 18:56:34,199 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/fitview.git
+2025-05-09 18:56:44,580 - repo-hosting - INFO - Downloading https://github.com/manideepv28/fitview.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\fitview
+2025-05-09 18:56:45,432 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/fitview.git to netlify
+2025-05-09 18:56:45,433 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:56:45,438 - repo-hosting - INFO - Creating Netlify site: fitview-1746797205
+2025-05-09 18:56:46,383 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:56:52,353 - repo-hosting - INFO - Rate limit hit for netlify, waiting 10 seconds before retry...
+2025-05-09 18:57:03,999 - repo-hosting - INFO - Created Netlify site: https://fitview-1746797205.netlify.app
+2025-05-09 18:57:03,999 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\fitview-master
+2025-05-09 18:57:04,453 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:57:04,453 - repo-hosting - INFO - Deploying to Netlify site: e389bedf-21dc-477d-a981-0eed04709dc7
+2025-05-09 18:57:06,216 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/fitview.git to http://681e02aa32fbf1dfa95f3dfd--fitview-1746797205.netlify.app
+2025-05-09 18:57:06,218 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/fitview.git to netlify at http://681e02aa32fbf1dfa95f3dfd--fitview-1746797205.netlify.app
+2025-05-09 18:57:06,223 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/FitLife-Journal.git
+2025-05-09 18:57:16,634 - repo-hosting - INFO - Downloading https://github.com/manideepv28/FitLife-Journal.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\FitLife-Journal
+2025-05-09 18:57:17,658 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/FitLife-Journal.git to netlify
+2025-05-09 18:57:17,660 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:57:17,675 - repo-hosting - INFO - Creating Netlify site: fitlife-journal-1746797237
+2025-05-09 18:57:19,314 - repo-hosting - INFO - Created Netlify site: https://fitlife-journal-1746797237.netlify.app
+2025-05-09 18:57:19,315 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\FitLife-Journal-master
+2025-05-09 18:57:19,995 - repo-hosting - INFO - Created zip file: 0.56 MB / 90 MB
+2025-05-09 18:57:19,995 - repo-hosting - INFO - Deploying to Netlify site: 810eb14a-1407-457b-b212-9e7426d16138
+2025-05-09 18:57:21,694 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/FitLife-Journal.git to http://681e02b99356f2d9f5c2ac70--fitlife-journal-1746797237.netlify.app
+2025-05-09 18:57:21,695 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/FitLife-Journal.git to netlify at http://681e02b99356f2d9f5c2ac70--fitlife-journal-1746797237.netlify.app
+2025-05-09 18:57:21,698 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/roamright.git
+2025-05-09 18:57:32,095 - repo-hosting - INFO - Downloading https://github.com/manideepv28/roamright.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\roamright
+2025-05-09 18:57:33,033 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/roamright.git to netlify
+2025-05-09 18:57:33,034 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:57:33,038 - repo-hosting - INFO - Creating Netlify site: roamright-1746797253
+2025-05-09 18:57:34,735 - repo-hosting - INFO - Created Netlify site: https://roamright-1746797253.netlify.app
+2025-05-09 18:57:34,737 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\roamright-master
+2025-05-09 18:57:35,067 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:57:35,068 - repo-hosting - INFO - Deploying to Netlify site: 2b3e06c8-4537-4539-9fa0-fa84c29c4a2f
+2025-05-09 18:57:36,773 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/roamright.git to http://681e02c8576dd6dfaf636a4d--roamright-1746797253.netlify.app
+2025-05-09 18:57:36,776 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/roamright.git to netlify at http://681e02c8576dd6dfaf636a4d--roamright-1746797253.netlify.app
+2025-05-09 18:57:36,785 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/Athlete-s-Itinerary.git
+2025-05-09 18:57:47,199 - repo-hosting - INFO - Downloading https://github.com/manideepv28/Athlete-s-Itinerary.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\Athlete-s-Itinerary
+2025-05-09 18:57:48,135 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/Athlete-s-Itinerary.git to netlify
+2025-05-09 18:57:48,136 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:57:48,142 - repo-hosting - INFO - Creating Netlify site: athlete-s-itinerary-1746797268
+2025-05-09 18:57:49,135 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:57:55,125 - repo-hosting - INFO - Rate limit hit for netlify, waiting 10 seconds before retry...
+2025-05-09 18:58:06,846 - repo-hosting - INFO - Created Netlify site: https://athlete-s-itinerary-1746797268.netlify.app
+2025-05-09 18:58:06,847 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\Athlete-s-Itinerary-master
+2025-05-09 18:58:07,276 - repo-hosting - INFO - Created zip file: 0.53 MB / 90 MB
+2025-05-09 18:58:07,276 - repo-hosting - INFO - Deploying to Netlify site: 32a6a10e-17a2-4cd7-9918-679cb1164df0
+2025-05-09 18:58:09,077 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Athlete-s-Itinerary.git to http://681e02e8279585e609b80136--athlete-s-itinerary-1746797268.netlify.app
+2025-05-09 18:58:09,081 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Athlete-s-Itinerary.git to netlify at http://681e02e8279585e609b80136--athlete-s-itinerary-1746797268.netlify.app
+2025-05-09 18:58:09,090 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/ai-playground.git
+2025-05-09 18:58:19,504 - repo-hosting - INFO - Downloading https://github.com/manideepv28/ai-playground.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\ai-playground
+2025-05-09 18:58:20,524 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/ai-playground.git to netlify
+2025-05-09 18:58:20,525 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:58:20,529 - repo-hosting - INFO - Creating Netlify site: ai-playground-1746797300
+2025-05-09 18:58:22,156 - repo-hosting - INFO - Created Netlify site: https://ai-playground-1746797300.netlify.app
+2025-05-09 18:58:22,157 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\ai-playground-master
+2025-05-09 18:58:22,446 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:58:22,447 - repo-hosting - INFO - Deploying to Netlify site: 0e1c1d31-4615-4952-a2e7-265d15ffd344
+2025-05-09 18:58:24,227 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/ai-playground.git to http://681e02f8bb6d09ded412bab7--ai-playground-1746797300.netlify.app
+2025-05-09 18:58:24,228 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/ai-playground.git to netlify at http://681e02f8bb6d09ded412bab7--ai-playground-1746797300.netlify.app
+2025-05-09 18:58:24,232 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/PromptForge.git
+2025-05-09 18:58:34,605 - repo-hosting - INFO - Downloading https://github.com/manideepv28/PromptForge.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\PromptForge
+2025-05-09 18:58:35,533 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/PromptForge.git to netlify
+2025-05-09 18:58:35,534 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:58:35,540 - repo-hosting - INFO - Creating Netlify site: promptforge-1746797315
+2025-05-09 18:58:37,198 - repo-hosting - INFO - Created Netlify site: https://promptforge-1746797315.netlify.app
+2025-05-09 18:58:37,199 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\PromptForge-master
+2025-05-09 18:58:37,555 - repo-hosting - INFO - Created zip file: 0.50 MB / 90 MB
+2025-05-09 18:58:37,556 - repo-hosting - INFO - Deploying to Netlify site: 6a41bfd4-263e-4a58-b5a7-d5724015305c
+2025-05-09 18:58:39,321 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/PromptForge.git to http://681e0307279585e57bb802ee--promptforge-1746797315.netlify.app
+2025-05-09 18:58:39,322 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/PromptForge.git to netlify at http://681e0307279585e57bb802ee--promptforge-1746797315.netlify.app
+2025-05-09 18:58:39,325 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/arvr-showcase.git
+2025-05-09 18:58:49,744 - repo-hosting - INFO - Downloading https://github.com/manideepv28/arvr-showcase.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\arvr-showcase
+2025-05-09 18:58:50,578 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/arvr-showcase.git to netlify
+2025-05-09 18:58:50,579 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:58:50,584 - repo-hosting - INFO - Creating Netlify site: arvr-showcase-1746797330
+2025-05-09 18:58:51,532 - repo-hosting - INFO - Rate limit hit for netlify, waiting 5 seconds before retry...
+2025-05-09 18:58:57,486 - repo-hosting - INFO - Rate limit hit for netlify, waiting 10 seconds before retry...
+2025-05-09 18:59:09,220 - repo-hosting - INFO - Created Netlify site: https://arvr-showcase-1746797330.netlify.app
+2025-05-09 18:59:09,221 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\arvr-showcase-master
+2025-05-09 18:59:09,556 - repo-hosting - INFO - Created zip file: 0.51 MB / 90 MB
+2025-05-09 18:59:09,556 - repo-hosting - INFO - Deploying to Netlify site: b3e472b6-c014-426e-b38c-57883308ad63
+2025-05-09 18:59:11,243 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/arvr-showcase.git to http://681e0327c8b548de06e902b0--arvr-showcase-1746797330.netlify.app
+2025-05-09 18:59:11,245 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/arvr-showcase.git to netlify at http://681e0327c8b548de06e902b0--arvr-showcase-1746797330.netlify.app
+2025-05-09 18:59:11,248 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/BlockApps-Showcase.git
+2025-05-09 18:59:21,697 - repo-hosting - INFO - Downloading https://github.com/manideepv28/BlockApps-Showcase.git to C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\BlockApps-Showcase
+2025-05-09 18:59:22,638 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/BlockApps-Showcase.git to netlify
+2025-05-09 18:59:22,640 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 18:59:22,645 - repo-hosting - INFO - Creating Netlify site: blockapps-showcase-1746797362
+2025-05-09 18:59:24,323 - repo-hosting - INFO - Created Netlify site: https://blockapps-showcase-1746797362.netlify.app
+2025-05-09 18:59:24,323 - repo-hosting - INFO - Creating zip file from C:\Users\Admin\AppData\Local\Temp\tmpaye8gctz\BlockApps-Showcase-master
+2025-05-09 18:59:24,657 - repo-hosting - INFO - Created zip file: 0.52 MB / 90 MB
+2025-05-09 18:59:24,658 - repo-hosting - INFO - Deploying to Netlify site: 8719ac39-d399-48bd-905b-9d12c01e37ff
+2025-05-09 18:59:26,362 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/BlockApps-Showcase.git to http://681e0336b343afe7c48d71c8--blockapps-showcase-1746797362.netlify.app
+2025-05-09 18:59:26,364 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/BlockApps-Showcase.git to netlify at http://681e0336b343afe7c48d71c8--blockapps-showcase-1746797362.netlify.app
+2025-05-09 18:59:26,791 - repo-hosting - INFO - Summary: 25/25 repositories successfully deployed
+2025-05-09 18:59:26,802 - repo-hosting - INFO - 
+Deployment completed: 25/25 repositories successfully deployed
+2025-05-09 18:59:26,802 - repo-hosting - INFO - Results saved to deployment_results.csv
+2025-05-09 19:00:23,741 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:00:26,500 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:00:27,096 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:00:27,476 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:00:27,476 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:00:27,477 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:00:27,477 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:00:27,496 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:00:27,930 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmpr9vq6oy9\shopwave1
+2025-05-09 19:00:29,009 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:00:29,480 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:00:29,491 - repo-hosting - INFO - Creating Render site: shopwave1-1746797429
+2025-05-09 19:00:29,976 - repo-hosting - ERROR - Failed to create Render site: {"message":"invalid ownerID: manideepv285@gmail.com. valid owner IDs can be found using the /v1/owners API."}
+
+2025-05-09 19:00:29,978 - repo-hosting - WARNING - Failed to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:00:30,001 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/budgetview.git
+2025-05-09 19:00:45,447 - repo-hosting - INFO - Downloading https://github.com/manideepv28/budgetview.git to C:\Users\Admin\AppData\Local\Temp\tmpr9vq6oy9\budgetview
+2025-05-09 19:00:46,631 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/budgetview.git to render
+2025-05-09 19:00:47,011 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:00:47,023 - repo-hosting - INFO - Creating Render site: budgetview-1746797447
+2025-05-09 19:00:47,479 - repo-hosting - ERROR - Failed to create Render site: {"message":"invalid ownerID: manideepv285@gmail.com. valid owner IDs can be found using the /v1/owners API."}
+
+2025-05-09 19:00:47,481 - repo-hosting - WARNING - Failed to deploy https://github.com/manideepv28/budgetview.git to render
+2025-05-09 19:00:47,484 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:01:02,994 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmpr9vq6oy9\careerlink
+2025-05-09 19:01:04,107 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:01:04,749 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:01:04,760 - repo-hosting - INFO - Creating Render site: careerlink-1746797464
+2025-05-09 19:01:05,283 - repo-hosting - ERROR - Failed to create Render site: {"message":"invalid ownerID: manideepv285@gmail.com. valid owner IDs can be found using the /v1/owners API."}
+
+2025-05-09 19:01:05,284 - repo-hosting - WARNING - Failed to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:01:05,287 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:01:20,695 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmpr9vq6oy9\careerlink
+2025-05-09 19:01:21,594 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:01:21,962 - repo-hosting - INFO - Found index.html in repository root
+2025-05-09 19:01:21,965 - repo-hosting - INFO - Creating Render site: careerlink-1746797481
+2025-05-09 19:01:22,433 - repo-hosting - ERROR - Failed to create Render site: {"message":"invalid ownerID: manideepv285@gmail.com. valid owner IDs can be found using the /v1/owners API."}
+
+2025-05-09 19:01:22,436 - repo-hosting - WARNING - Failed to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:01:22,448 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/stockpilot.git
+2025-05-09 19:01:32,136 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 19:02:23,878 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:02:26,438 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:02:26,992 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:02:27,352 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:02:27,352 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:02:27,353 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:02:27,353 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:02:27,368 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:02:27,743 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmpdwp39ppw\shopwave1
+2025-05-09 19:02:28,678 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:02:29,052 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:02:29,064 - repo-hosting - INFO - Creating Render site: shopwave1-1746797549
+2025-05-09 19:02:32,273 - repo-hosting - INFO - Created Render site: https://shopwave1-1746797549.onrender.com
+2025-05-09 19:02:32,275 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:02:37,741 - repo-hosting - INFO - Successfully created Render site for https://github.com/manideepv28/shopwave1.git at https://shopwave1-1746797549.onrender.com
+2025-05-09 19:02:37,743 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/shopwave1.git to render at https://shopwave1-1746797549.onrender.com
+2025-05-09 19:02:37,762 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/budgetview.git
+2025-05-09 19:02:53,155 - repo-hosting - INFO - Downloading https://github.com/manideepv28/budgetview.git to C:\Users\Admin\AppData\Local\Temp\tmpdwp39ppw\budgetview
+2025-05-09 19:02:54,070 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/budgetview.git to render
+2025-05-09 19:02:54,437 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:02:54,450 - repo-hosting - INFO - Creating Render site: budgetview-1746797574
+2025-05-09 19:02:57,573 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 19:04:09,078 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:04:11,893 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:04:12,796 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:04:13,204 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:04:13,205 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:04:13,205 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:04:13,205 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:04:13,217 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:04:13,603 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmp9jse9h3n\shopwave1
+2025-05-09 19:04:14,543 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:04:14,952 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:04:14,960 - repo-hosting - INFO - Creating Render site: shopwave1-1746797654
+2025-05-09 19:04:17,864 - repo-hosting - INFO - Created Render site: https://shopwave1-1746797654.onrender.com
+2025-05-09 19:04:17,864 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:04:23,330 - repo-hosting - INFO - Successfully created Render site for https://github.com/manideepv28/shopwave1.git at https://shopwave1-1746797654.onrender.com
+2025-05-09 19:04:23,331 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/shopwave1.git to render at https://shopwave1-1746797654.onrender.com
+2025-05-09 19:04:23,338 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/budgetview.git
+2025-05-09 19:04:38,730 - repo-hosting - INFO - Downloading https://github.com/manideepv28/budgetview.git to C:\Users\Admin\AppData\Local\Temp\tmp9jse9h3n\budgetview
+2025-05-09 19:04:39,683 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/budgetview.git to render
+2025-05-09 19:04:40,088 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:04:40,093 - repo-hosting - INFO - Creating Render site: budgetview-1746797680
+2025-05-09 19:04:43,059 - repo-hosting - INFO - Created Render site: https://budgetview-1746797680.onrender.com
+2025-05-09 19:04:43,059 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:04:48,521 - repo-hosting - INFO - Successfully created Render site for https://github.com/manideepv28/budgetview.git at https://budgetview-1746797680.onrender.com
+2025-05-09 19:04:48,522 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/budgetview.git to render at https://budgetview-1746797680.onrender.com
+2025-05-09 19:04:48,524 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:04:57,206 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 19:06:42,424 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:06:45,469 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:06:46,018 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:06:46,392 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:06:46,393 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:06:46,394 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:06:46,394 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:06:46,418 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:06:46,778 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\shopwave1
+2025-05-09 19:06:47,773 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:06:48,162 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:06:48,172 - repo-hosting - INFO - Creating Render site: shopwave1-1746797808
+2025-05-09 19:06:48,172 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "shopwave1-1746797808",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/shopwave1.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:06:51,539 - repo-hosting - INFO - Created Render site: https://shopwave1-1746797808.onrender.com
+2025-05-09 19:06:51,539 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:07:02,316 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:07:12,769 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:07:23,251 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:07:33,744 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:07:44,210 - repo-hosting - INFO - Render deployment is still in progress. The site https://shopwave1-1746797808.onrender.com may take a few minutes to become available.
+2025-05-09 19:07:44,211 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/shopwave1.git to render at https://shopwave1-1746797808.onrender.com
+2025-05-09 19:07:44,236 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/budgetview.git
+2025-05-09 19:07:59,748 - repo-hosting - INFO - Downloading https://github.com/manideepv28/budgetview.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\budgetview
+2025-05-09 19:08:00,709 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/budgetview.git to render
+2025-05-09 19:08:01,138 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:08:01,145 - repo-hosting - INFO - Creating Render site: budgetview-1746797881
+2025-05-09 19:08:01,145 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "budgetview-1746797881",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/budgetview.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:08:03,978 - repo-hosting - INFO - Created Render site: https://budgetview-1746797881.onrender.com
+2025-05-09 19:08:03,978 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:08:14,756 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:08:25,254 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:08:35,718 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:08:46,170 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:08:56,625 - repo-hosting - INFO - Render deployment is still in progress. The site https://budgetview-1746797881.onrender.com may take a few minutes to become available.
+2025-05-09 19:08:56,626 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/budgetview.git to render at https://budgetview-1746797881.onrender.com
+2025-05-09 19:08:56,629 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:09:12,118 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\careerlink
+2025-05-09 19:09:13,228 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:09:13,581 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:09:13,592 - repo-hosting - INFO - Creating Render site: careerlink-1746797953
+2025-05-09 19:09:13,594 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "careerlink-1746797953",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/careerlink.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:09:16,611 - repo-hosting - INFO - Created Render site: https://careerlink-1746797953.onrender.com
+2025-05-09 19:09:16,611 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:09:27,394 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:09:37,841 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:09:48,299 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:09:59,073 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:10:09,561 - repo-hosting - INFO - Render deployment is still in progress. The site https://careerlink-1746797953.onrender.com may take a few minutes to become available.
+2025-05-09 19:10:09,562 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to render at https://careerlink-1746797953.onrender.com
+2025-05-09 19:10:09,571 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:10:25,120 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\careerlink
+2025-05-09 19:10:26,350 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:10:26,977 - repo-hosting - INFO - Found index.html in repository root
+2025-05-09 19:10:26,977 - repo-hosting - INFO - Creating Render site: careerlink-1746798026
+2025-05-09 19:10:26,978 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "careerlink-1746798026",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/careerlink.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:10:30,516 - repo-hosting - INFO - Created Render site: https://careerlink-1746798026.onrender.com
+2025-05-09 19:10:30,517 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:10:40,984 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:10:51,453 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:11:01,931 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:11:12,414 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:11:22,867 - repo-hosting - INFO - Render deployment is still in progress. The site https://careerlink-1746798026.onrender.com may take a few minutes to become available.
+2025-05-09 19:11:22,870 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to render at https://careerlink-1746798026.onrender.com
+2025-05-09 19:11:22,881 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/stockpilot.git
+2025-05-09 19:11:38,338 - repo-hosting - INFO - Downloading https://github.com/manideepv28/stockpilot.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\stockpilot
+2025-05-09 19:11:39,336 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/stockpilot.git to render
+2025-05-09 19:11:39,727 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:11:39,733 - repo-hosting - INFO - Creating Render site: stockpilot-1746798099
+2025-05-09 19:11:39,733 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "stockpilot-1746798099",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/stockpilot.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:11:42,809 - repo-hosting - INFO - Created Render site: https://stockpilot-1746798099.onrender.com
+2025-05-09 19:11:42,809 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:11:53,612 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:12:04,066 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:12:14,529 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:12:24,970 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:12:35,423 - repo-hosting - INFO - Render deployment is still in progress. The site https://stockpilot-1746798099.onrender.com may take a few minutes to become available.
+2025-05-09 19:12:35,424 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/stockpilot.git to render at https://stockpilot-1746798099.onrender.com
+2025-05-09 19:12:35,426 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/quillcraft.git
+2025-05-09 19:12:50,811 - repo-hosting - INFO - Downloading https://github.com/manideepv28/quillcraft.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\quillcraft
+2025-05-09 19:12:52,084 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/quillcraft.git to render
+2025-05-09 19:12:52,445 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:12:52,456 - repo-hosting - INFO - Creating Render site: quillcraft-1746798172
+2025-05-09 19:12:52,457 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "quillcraft-1746798172",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/quillcraft.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:12:55,757 - repo-hosting - INFO - Created Render site: https://quillcraft-1746798172.onrender.com
+2025-05-09 19:12:55,757 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:13:06,244 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:13:16,736 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:13:27,266 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:13:37,714 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:13:48,164 - repo-hosting - INFO - Render deployment is still in progress. The site https://quillcraft-1746798172.onrender.com may take a few minutes to become available.
+2025-05-09 19:13:48,165 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/quillcraft.git to render at https://quillcraft-1746798172.onrender.com
+2025-05-09 19:13:48,168 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/weatherwise.git
+2025-05-09 19:14:03,544 - repo-hosting - INFO - Downloading https://github.com/manideepv28/weatherwise.git to C:\Users\Admin\AppData\Local\Temp\tmp589xerat\weatherwise
+2025-05-09 19:14:04,529 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/weatherwise.git to render
+2025-05-09 19:14:04,885 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:14:04,891 - repo-hosting - INFO - Creating Render site: weatherwise-1746798244
+2025-05-09 19:14:04,891 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "weatherwise-1746798244",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/weatherwise.git",
+  "branch": "master",
+  "buildCommand": "[ -f package.json ] && npm install && npm run build || echo 'No package.json found, skipping build';",
+  "publishDirectory": "build || dist || public || _site || out || ."
+}
+2025-05-09 19:14:08,202 - repo-hosting - INFO - Created Render site: https://weatherwise-1746798244.onrender.com
+2025-05-09 19:14:08,202 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:14:18,709 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:14:29,169 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:14:39,623 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:14:50,078 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:14:52,077 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 19:17:10,376 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:17:13,935 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:17:14,646 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:17:15,060 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:17:15,062 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:17:15,062 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:17:15,063 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:17:15,087 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:17:15,488 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmpz_mumc4i\shopwave1
+2025-05-09 19:17:16,520 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:17:17,023 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:17:17,042 - repo-hosting - INFO - Creating Render site: shopwave1-1746798437
+2025-05-09 19:17:17,638 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "shopwave1-1746798437",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/shopwave1.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "public"
+}
+2025-05-09 19:17:20,623 - repo-hosting - INFO - Created Render site: https://shopwave1-1746798437.onrender.com
+2025-05-09 19:17:20,624 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:17:23,536 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 19:21:38,189 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:21:41,578 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:21:42,573 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:21:42,925 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:21:42,932 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:21:42,932 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:21:42,933 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:21:42,954 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:21:43,328 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmpyt7_r4q8\shopwave1
+2025-05-09 19:21:44,386 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:21:44,756 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:21:44,766 - repo-hosting - INFO - Creating Render site: shopwave1-1746798704
+2025-05-09 19:21:45,073 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "shopwave1-1746798704",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/shopwave1.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "public"
+}
+2025-05-09 19:21:48,124 - repo-hosting - INFO - Created Render site: https://shopwave1-1746798704.onrender.com
+2025-05-09 19:21:48,125 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:21:58,917 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:22:03,815 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 19:24:15,030 - repo-hosting - INFO - Validating Netlify API token...
+2025-05-09 19:24:18,192 - repo-hosting - INFO - Validating Render API token...
+2025-05-09 19:24:19,038 - repo-hosting - INFO - Validating GitHub API token...
+2025-05-09 19:24:19,421 - repo-hosting - INFO - Using platforms: render
+2025-05-09 19:24:19,422 - repo-hosting - INFO - Found 25 repositories in sample_repos.txt
+2025-05-09 19:24:19,422 - repo-hosting - INFO - Starting deployment of 25 repositories
+2025-05-09 19:24:19,422 - repo-hosting - INFO - Max package size: 90 MB, Max retries: 3, Delay between deployments: 15s
+2025-05-09 19:24:19,454 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/shopwave1.git
+2025-05-09 19:24:19,840 - repo-hosting - INFO - Downloading https://github.com/manideepv28/shopwave1.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\shopwave1
+2025-05-09 19:24:20,777 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/shopwave1.git to render
+2025-05-09 19:24:21,124 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:24:21,141 - repo-hosting - INFO - Creating Render site: shopwave1-1746798861
+2025-05-09 19:24:21,458 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "shopwave1-1746798861",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/shopwave1.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:24:24,436 - repo-hosting - INFO - Created Render site: https://shopwave1-1746798861.onrender.com
+2025-05-09 19:24:24,437 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:24:34,906 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:24:45,354 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:24:55,808 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:25:06,300 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:25:16,797 - repo-hosting - INFO - Render deployment is still in progress. The site https://shopwave1-1746798861.onrender.com may take a few minutes to become available.
+2025-05-09 19:25:16,799 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/shopwave1.git to render at https://shopwave1-1746798861.onrender.com
+2025-05-09 19:25:16,834 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/budgetview.git
+2025-05-09 19:25:32,253 - repo-hosting - INFO - Downloading https://github.com/manideepv28/budgetview.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\budgetview
+2025-05-09 19:25:33,200 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/budgetview.git to render
+2025-05-09 19:25:33,591 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:25:33,601 - repo-hosting - INFO - Creating Render site: budgetview-1746798933
+2025-05-09 19:25:34,122 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "budgetview-1746798933",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/budgetview.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:25:37,599 - repo-hosting - INFO - Created Render site: https://budgetview-1746798933.onrender.com
+2025-05-09 19:25:37,600 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:25:48,101 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:25:58,577 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:26:09,063 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:26:19,556 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:26:30,028 - repo-hosting - INFO - Render deployment is still in progress. The site https://budgetview-1746798933.onrender.com may take a few minutes to become available.
+2025-05-09 19:26:30,032 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/budgetview.git to render at https://budgetview-1746798933.onrender.com
+2025-05-09 19:26:30,039 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:26:45,461 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\careerlink
+2025-05-09 19:26:46,513 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:26:46,973 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:26:46,979 - repo-hosting - INFO - Creating Render site: careerlink-1746799006
+2025-05-09 19:26:47,465 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "careerlink-1746799006",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/careerlink.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:26:49,912 - repo-hosting - INFO - Created Render site: https://careerlink-1746799006.onrender.com
+2025-05-09 19:26:49,913 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:27:00,733 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:27:11,181 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:27:21,654 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:27:32,158 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:27:42,628 - repo-hosting - INFO - Render deployment is still in progress. The site https://careerlink-1746799006.onrender.com may take a few minutes to become available.
+2025-05-09 19:27:42,630 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/careerlink.git to render at https://careerlink-1746799006.onrender.com
+2025-05-09 19:27:42,633 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/careerlink.git
+2025-05-09 19:27:58,112 - repo-hosting - INFO - Downloading https://github.com/manideepv28/careerlink.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\careerlink
+2025-05-09 19:27:59,024 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:27:59,408 - repo-hosting - INFO - Found existing build directory with index.html: public
+2025-05-09 19:27:59,409 - repo-hosting - INFO - Creating Render site: careerlink-1746799079
+2025-05-09 19:27:59,411 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "careerlink-1746799079",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/careerlink.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:27:59,870 - repo-hosting - INFO - Rate limit hit for render, waiting 5 seconds before retry...
+2025-05-09 19:28:05,629 - repo-hosting - INFO - Rate limit hit for render, waiting 10 seconds before retry...
+2025-05-09 19:28:16,103 - repo-hosting - INFO - Rate limit hit for render, waiting 20 seconds before retry...
+2025-05-09 19:28:36,625 - repo-hosting - ERROR - Failed to create Render site: {"error":"rate limit exceeded"}
+2025-05-09 19:28:36,626 - repo-hosting - WARNING - Failed to deploy https://github.com/manideepv28/careerlink.git to render
+2025-05-09 19:28:36,638 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/stockpilot.git
+2025-05-09 19:28:52,086 - repo-hosting - INFO - Downloading https://github.com/manideepv28/stockpilot.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\stockpilot
+2025-05-09 19:28:53,031 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/stockpilot.git to render
+2025-05-09 19:28:53,425 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:28:53,447 - repo-hosting - INFO - Creating Render site: stockpilot-1746799133
+2025-05-09 19:28:53,798 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "stockpilot-1746799133",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/stockpilot.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:28:54,273 - repo-hosting - INFO - Rate limit hit for render, waiting 5 seconds before retry...
+2025-05-09 19:28:59,751 - repo-hosting - INFO - Rate limit hit for render, waiting 10 seconds before retry...
+2025-05-09 19:29:10,213 - repo-hosting - INFO - Rate limit hit for render, waiting 20 seconds before retry...
+2025-05-09 19:29:30,681 - repo-hosting - ERROR - Failed to create Render site: {"error":"rate limit exceeded"}
+2025-05-09 19:29:30,682 - repo-hosting - WARNING - Failed to deploy https://github.com/manideepv28/stockpilot.git to render
+2025-05-09 19:29:30,686 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/quillcraft.git
+2025-05-09 19:29:46,137 - repo-hosting - INFO - Downloading https://github.com/manideepv28/quillcraft.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\quillcraft
+2025-05-09 19:29:47,120 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/quillcraft.git to render
+2025-05-09 19:29:47,498 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:29:47,518 - repo-hosting - INFO - Creating Render site: quillcraft-1746799187
+2025-05-09 19:29:47,848 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "quillcraft-1746799187",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/quillcraft.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:29:48,333 - repo-hosting - INFO - Rate limit hit for render, waiting 5 seconds before retry...
+2025-05-09 19:29:53,785 - repo-hosting - INFO - Rate limit hit for render, waiting 10 seconds before retry...
+2025-05-09 19:30:07,352 - repo-hosting - INFO - Created Render site: https://quillcraft-1746799187.onrender.com
+2025-05-09 19:30:07,353 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:30:17,826 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:30:28,442 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:30:38,961 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:30:49,462 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:30:59,932 - repo-hosting - INFO - Render deployment is still in progress. The site https://quillcraft-1746799187.onrender.com may take a few minutes to become available.
+2025-05-09 19:30:59,934 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/quillcraft.git to render at https://quillcraft-1746799187.onrender.com
+2025-05-09 19:30:59,941 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/weatherwise.git
+2025-05-09 19:31:15,364 - repo-hosting - INFO - Downloading https://github.com/manideepv28/weatherwise.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\weatherwise
+2025-05-09 19:31:16,353 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/weatherwise.git to render
+2025-05-09 19:31:16,730 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:31:16,750 - repo-hosting - INFO - Creating Render site: weatherwise-1746799276
+2025-05-09 19:31:17,058 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "weatherwise-1746799276",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/weatherwise.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:31:20,261 - repo-hosting - INFO - Created Render site: https://weatherwise-1746799276.onrender.com
+2025-05-09 19:31:20,262 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:31:31,054 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:31:41,853 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:31:52,382 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:32:02,866 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:32:13,375 - repo-hosting - INFO - Render deployment is still in progress. The site https://weatherwise-1746799276.onrender.com may take a few minutes to become available.
+2025-05-09 19:32:13,376 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/weatherwise.git to render at https://weatherwise-1746799276.onrender.com
+2025-05-09 19:32:13,379 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/supportzen.git
+2025-05-09 19:32:28,942 - repo-hosting - INFO - Downloading https://github.com/manideepv28/supportzen.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\supportzen
+2025-05-09 19:32:30,021 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/supportzen.git to render
+2025-05-09 19:32:30,402 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:32:30,421 - repo-hosting - INFO - Creating Render site: supportzen-1746799350
+2025-05-09 19:32:30,737 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "supportzen-1746799350",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/supportzen.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:32:33,711 - repo-hosting - INFO - Created Render site: https://supportzen-1746799350.onrender.com
+2025-05-09 19:32:33,712 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:32:44,214 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:32:54,716 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:33:05,556 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:33:16,052 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:33:27,113 - repo-hosting - INFO - Render deployment is still in progress. The site https://supportzen-1746799350.onrender.com may take a few minutes to become available.
+2025-05-09 19:33:27,117 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/supportzen.git to render at https://supportzen-1746799350.onrender.com
+2025-05-09 19:33:27,125 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/supportzen1.git
+2025-05-09 19:33:42,613 - repo-hosting - INFO - Downloading https://github.com/manideepv28/supportzen1.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\supportzen1
+2025-05-09 19:33:43,586 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/supportzen1.git to render
+2025-05-09 19:33:43,969 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:33:43,976 - repo-hosting - INFO - Creating Render site: supportzen1-1746799423
+2025-05-09 19:33:44,530 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "supportzen1-1746799423",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/supportzen1.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:33:47,423 - repo-hosting - INFO - Created Render site: https://supportzen1-1746799423.onrender.com
+2025-05-09 19:33:47,423 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:33:58,265 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:34:08,734 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:34:19,274 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:34:29,739 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:34:40,350 - repo-hosting - INFO - Render deployment is still in progress. The site https://supportzen1-1746799423.onrender.com may take a few minutes to become available.
+2025-05-09 19:34:40,352 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/supportzen1.git to render at https://supportzen1-1746799423.onrender.com
+2025-05-09 19:34:40,360 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/eventide.git
+2025-05-09 19:34:55,803 - repo-hosting - INFO - Downloading https://github.com/manideepv28/eventide.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\eventide
+2025-05-09 19:34:56,731 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/eventide.git to render
+2025-05-09 19:34:57,195 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:34:57,218 - repo-hosting - INFO - Creating Render site: eventide-1746799497
+2025-05-09 19:34:57,586 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "eventide-1746799497",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/eventide.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:35:00,452 - repo-hosting - INFO - Created Render site: https://eventide-1746799497.onrender.com
+2025-05-09 19:35:00,452 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:35:10,925 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:35:21,871 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:35:32,328 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:35:42,794 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:35:53,297 - repo-hosting - INFO - Render deployment is still in progress. The site https://eventide-1746799497.onrender.com may take a few minutes to become available.
+2025-05-09 19:35:53,298 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/eventide.git to render at https://eventide-1746799497.onrender.com
+2025-05-09 19:35:53,302 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/Global-Nuptials-Connect.git
+2025-05-09 19:36:08,735 - repo-hosting - INFO - Downloading https://github.com/manideepv28/Global-Nuptials-Connect.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\Global-Nuptials-Connect
+2025-05-09 19:36:10,610 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/Global-Nuptials-Connect.git to render
+2025-05-09 19:36:10,986 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:36:11,001 - repo-hosting - INFO - Creating Render site: global-nuptials-connect-1746799570
+2025-05-09 19:36:11,356 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "global-nuptials-connect-1746799570",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/Global-Nuptials-Connect.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:36:14,617 - repo-hosting - INFO - Created Render site: https://global-nuptials-connect-1746799570.onrender.com
+2025-05-09 19:36:14,618 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:36:25,142 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:36:35,953 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:36:46,431 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:36:57,249 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:37:08,439 - repo-hosting - INFO - Render deployment is still in progress. The site https://global-nuptials-connect-1746799570.onrender.com may take a few minutes to become available.
+2025-05-09 19:37:08,441 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Global-Nuptials-Connect.git to render at https://global-nuptials-connect-1746799570.onrender.com
+2025-05-09 19:37:08,449 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/learnswift.git
+2025-05-09 19:37:23,878 - repo-hosting - INFO - Downloading https://github.com/manideepv28/learnswift.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\learnswift
+2025-05-09 19:37:24,891 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/learnswift.git to render
+2025-05-09 19:37:25,273 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:37:25,278 - repo-hosting - INFO - Creating Render site: learnswift-1746799645
+2025-05-09 19:37:25,666 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "learnswift-1746799645",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/learnswift.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:37:29,225 - repo-hosting - INFO - Created Render site: https://learnswift-1746799645.onrender.com
+2025-05-09 19:37:29,226 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:37:39,695 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:37:50,149 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:38:01,048 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:38:11,534 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:38:21,991 - repo-hosting - INFO - Render deployment is still in progress. The site https://learnswift-1746799645.onrender.com may take a few minutes to become available.
+2025-05-09 19:38:21,993 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/learnswift.git to render at https://learnswift-1746799645.onrender.com
+2025-05-09 19:38:22,000 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/CodeLeap.git
+2025-05-09 19:38:37,436 - repo-hosting - INFO - Downloading https://github.com/manideepv28/CodeLeap.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\CodeLeap
+2025-05-09 19:38:38,427 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/CodeLeap.git to render
+2025-05-09 19:38:38,870 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:38:38,890 - repo-hosting - INFO - Creating Render site: codeleap-1746799718
+2025-05-09 19:38:39,262 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "codeleap-1746799718",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/CodeLeap.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:38:42,763 - repo-hosting - INFO - Created Render site: https://codeleap-1746799718.onrender.com
+2025-05-09 19:38:42,763 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:38:53,260 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:39:03,800 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:39:14,256 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:39:24,700 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:39:35,257 - repo-hosting - INFO - Render deployment is still in progress. The site https://codeleap-1746799718.onrender.com may take a few minutes to become available.
+2025-05-09 19:39:35,260 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/CodeLeap.git to render at https://codeleap-1746799718.onrender.com
+2025-05-09 19:39:35,268 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/textcraftaiplayground.git
+2025-05-09 19:39:50,726 - repo-hosting - INFO - Downloading https://github.com/manideepv28/textcraftaiplayground.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\textcraftaiplayground
+2025-05-09 19:39:51,754 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/textcraftaiplayground.git to render
+2025-05-09 19:39:52,122 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:39:52,132 - repo-hosting - INFO - Creating Render site: textcraftaiplayground-1746799792
+2025-05-09 19:39:52,390 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "textcraftaiplayground-1746799792",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/textcraftaiplayground.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:39:55,764 - repo-hosting - INFO - Created Render site: https://textcraftaiplayground-1746799792.onrender.com
+2025-05-09 19:39:55,765 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:40:06,293 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:40:16,749 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:40:27,253 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:40:37,699 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:40:48,179 - repo-hosting - INFO - Render deployment is still in progress. The site https://textcraftaiplayground-1746799792.onrender.com may take a few minutes to become available.
+2025-05-09 19:40:48,180 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/textcraftaiplayground.git to render at https://textcraftaiplayground-1746799792.onrender.com
+2025-05-09 19:40:48,183 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/VersatileAI.git
+2025-05-09 19:41:03,620 - repo-hosting - INFO - Downloading https://github.com/manideepv28/VersatileAI.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\VersatileAI
+2025-05-09 19:41:04,561 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/VersatileAI.git to render
+2025-05-09 19:41:04,944 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:41:04,962 - repo-hosting - INFO - Creating Render site: versatileai-1746799864
+2025-05-09 19:41:05,267 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "versatileai-1746799864",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/VersatileAI.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:41:08,522 - repo-hosting - INFO - Created Render site: https://versatileai-1746799864.onrender.com
+2025-05-09 19:41:08,523 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:41:19,047 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:41:29,511 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:41:40,021 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:41:50,491 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:42:00,981 - repo-hosting - INFO - Render deployment is still in progress. The site https://versatileai-1746799864.onrender.com may take a few minutes to become available.
+2025-05-09 19:42:00,986 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/VersatileAI.git to render at https://versatileai-1746799864.onrender.com
+2025-05-09 19:42:00,990 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/streamview.git
+2025-05-09 19:42:16,421 - repo-hosting - INFO - Downloading https://github.com/manideepv28/streamview.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\streamview
+2025-05-09 19:42:17,512 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/streamview.git to render
+2025-05-09 19:42:18,025 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:42:18,053 - repo-hosting - INFO - Creating Render site: streamview-1746799938
+2025-05-09 19:42:18,351 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "streamview-1746799938",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/streamview.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:42:21,381 - repo-hosting - INFO - Created Render site: https://streamview-1746799938.onrender.com
+2025-05-09 19:42:21,383 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:42:31,908 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:42:42,356 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:42:52,861 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:43:03,356 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:43:13,855 - repo-hosting - INFO - Render deployment is still in progress. The site https://streamview-1746799938.onrender.com may take a few minutes to become available.
+2025-05-09 19:43:13,858 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/streamview.git to render at https://streamview-1746799938.onrender.com
+2025-05-09 19:43:13,870 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/Reel-Sounds.git
+2025-05-09 19:43:29,397 - repo-hosting - INFO - Downloading https://github.com/manideepv28/Reel-Sounds.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\Reel-Sounds
+2025-05-09 19:43:30,429 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/Reel-Sounds.git to render
+2025-05-09 19:43:30,834 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:43:30,845 - repo-hosting - INFO - Creating Render site: reel-sounds-1746800010
+2025-05-09 19:43:30,845 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "reel-sounds-1746800010",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/Reel-Sounds.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:43:34,277 - repo-hosting - INFO - Created Render site: https://reel-sounds-1746800010.onrender.com
+2025-05-09 19:43:34,279 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:43:44,758 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:43:55,223 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:44:05,696 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:44:16,179 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:44:26,663 - repo-hosting - INFO - Render deployment is still in progress. The site https://reel-sounds-1746800010.onrender.com may take a few minutes to become available.
+2025-05-09 19:44:26,667 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Reel-Sounds.git to render at https://reel-sounds-1746800010.onrender.com
+2025-05-09 19:44:26,674 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/fitview.git
+2025-05-09 19:44:42,100 - repo-hosting - INFO - Downloading https://github.com/manideepv28/fitview.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\fitview
+2025-05-09 19:44:43,078 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/fitview.git to render
+2025-05-09 19:44:43,451 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:44:43,471 - repo-hosting - INFO - Creating Render site: fitview-1746800083
+2025-05-09 19:44:43,738 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "fitview-1746800083",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/fitview.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:44:46,623 - repo-hosting - INFO - Created Render site: https://fitview-1746800083.onrender.com
+2025-05-09 19:44:46,625 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:44:57,105 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:45:07,611 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:45:18,104 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:45:28,642 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:45:39,107 - repo-hosting - INFO - Render deployment is still in progress. The site https://fitview-1746800083.onrender.com may take a few minutes to become available.
+2025-05-09 19:45:39,110 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/fitview.git to render at https://fitview-1746800083.onrender.com
+2025-05-09 19:45:39,113 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/FitLife-Journal.git
+2025-05-09 19:45:54,642 - repo-hosting - INFO - Downloading https://github.com/manideepv28/FitLife-Journal.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\FitLife-Journal
+2025-05-09 19:45:55,705 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/FitLife-Journal.git to render
+2025-05-09 19:45:56,058 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:45:56,085 - repo-hosting - INFO - Creating Render site: fitlife-journal-1746800156
+2025-05-09 19:45:56,492 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "fitlife-journal-1746800156",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/FitLife-Journal.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:45:59,677 - repo-hosting - INFO - Created Render site: https://fitlife-journal-1746800156.onrender.com
+2025-05-09 19:45:59,678 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:46:10,487 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:46:20,972 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:46:31,465 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:46:41,918 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:46:52,394 - repo-hosting - INFO - Render deployment is still in progress. The site https://fitlife-journal-1746800156.onrender.com may take a few minutes to become available.
+2025-05-09 19:46:52,394 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/FitLife-Journal.git to render at https://fitlife-journal-1746800156.onrender.com
+2025-05-09 19:46:52,399 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/roamright.git
+2025-05-09 19:47:07,803 - repo-hosting - INFO - Downloading https://github.com/manideepv28/roamright.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\roamright
+2025-05-09 19:47:08,781 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/roamright.git to render
+2025-05-09 19:47:09,131 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:47:09,148 - repo-hosting - INFO - Creating Render site: roamright-1746800229
+2025-05-09 19:47:09,449 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "roamright-1746800229",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/roamright.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:47:12,497 - repo-hosting - INFO - Created Render site: https://roamright-1746800229.onrender.com
+2025-05-09 19:47:12,499 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:47:22,961 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:47:33,431 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:47:43,915 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:47:54,367 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:48:04,806 - repo-hosting - INFO - Render deployment is still in progress. The site https://roamright-1746800229.onrender.com may take a few minutes to become available.
+2025-05-09 19:48:04,806 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/roamright.git to render at https://roamright-1746800229.onrender.com
+2025-05-09 19:48:04,808 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/Athlete-s-Itinerary.git
+2025-05-09 19:48:20,233 - repo-hosting - INFO - Downloading https://github.com/manideepv28/Athlete-s-Itinerary.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\Athlete-s-Itinerary
+2025-05-09 19:48:21,168 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/Athlete-s-Itinerary.git to render
+2025-05-09 19:48:21,549 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:48:21,555 - repo-hosting - INFO - Creating Render site: athlete-s-itinerary-1746800301
+2025-05-09 19:48:21,892 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "athlete-s-itinerary-1746800301",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/Athlete-s-Itinerary.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:48:24,723 - repo-hosting - INFO - Created Render site: https://athlete-s-itinerary-1746800301.onrender.com
+2025-05-09 19:48:24,723 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:48:35,585 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:48:46,031 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:48:56,459 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:49:07,067 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:49:17,544 - repo-hosting - INFO - Render deployment is still in progress. The site https://athlete-s-itinerary-1746800301.onrender.com may take a few minutes to become available.
+2025-05-09 19:49:17,548 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/Athlete-s-Itinerary.git to render at https://athlete-s-itinerary-1746800301.onrender.com
+2025-05-09 19:49:17,559 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/ai-playground.git
+2025-05-09 19:49:32,939 - repo-hosting - INFO - Downloading https://github.com/manideepv28/ai-playground.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\ai-playground
+2025-05-09 19:49:33,812 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/ai-playground.git to render
+2025-05-09 19:49:34,183 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:49:34,191 - repo-hosting - INFO - Creating Render site: ai-playground-1746800374
+2025-05-09 19:49:34,443 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "ai-playground-1746800374",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/ai-playground.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:49:38,025 - repo-hosting - INFO - Created Render site: https://ai-playground-1746800374.onrender.com
+2025-05-09 19:49:38,026 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:49:48,728 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:49:59,198 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:50:10,015 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:50:20,561 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:50:30,998 - repo-hosting - INFO - Render deployment is still in progress. The site https://ai-playground-1746800374.onrender.com may take a few minutes to become available.
+2025-05-09 19:50:30,999 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/ai-playground.git to render at https://ai-playground-1746800374.onrender.com
+2025-05-09 19:50:31,002 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/PromptForge.git
+2025-05-09 19:50:46,414 - repo-hosting - INFO - Downloading https://github.com/manideepv28/PromptForge.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\PromptForge
+2025-05-09 19:50:47,338 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/PromptForge.git to render
+2025-05-09 19:50:47,729 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:50:47,735 - repo-hosting - INFO - Creating Render site: promptforge-1746800447
+2025-05-09 19:50:48,019 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "promptforge-1746800447",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/PromptForge.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:50:51,192 - repo-hosting - INFO - Created Render site: https://promptforge-1746800447.onrender.com
+2025-05-09 19:50:51,193 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:51:01,721 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:51:12,152 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:51:22,625 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:51:33,085 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:51:43,895 - repo-hosting - INFO - Render deployment is still in progress. The site https://promptforge-1746800447.onrender.com may take a few minutes to become available.
+2025-05-09 19:51:43,896 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/PromptForge.git to render at https://promptforge-1746800447.onrender.com
+2025-05-09 19:51:43,899 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/arvr-showcase.git
+2025-05-09 19:51:59,339 - repo-hosting - INFO - Downloading https://github.com/manideepv28/arvr-showcase.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\arvr-showcase
+2025-05-09 19:52:00,773 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/arvr-showcase.git to render
+2025-05-09 19:52:01,134 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:52:01,140 - repo-hosting - INFO - Creating Render site: arvr-showcase-1746800521
+2025-05-09 19:52:01,745 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "arvr-showcase-1746800521",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/arvr-showcase.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:52:04,913 - repo-hosting - INFO - Created Render site: https://arvr-showcase-1746800521.onrender.com
+2025-05-09 19:52:04,915 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:52:15,396 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:52:25,847 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:52:36,339 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:52:46,791 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:52:57,245 - repo-hosting - INFO - Render deployment is still in progress. The site https://arvr-showcase-1746800521.onrender.com may take a few minutes to become available.
+2025-05-09 19:52:57,245 - repo-hosting - INFO - Successfully deployed https://github.com/manideepv28/arvr-showcase.git to render at https://arvr-showcase-1746800521.onrender.com
+2025-05-09 19:52:57,248 - repo-hosting - INFO - Processing repository: https://github.com/manideepv28/BlockApps-Showcase.git
+2025-05-09 19:53:12,646 - repo-hosting - INFO - Downloading https://github.com/manideepv28/BlockApps-Showcase.git to C:\Users\Admin\AppData\Local\Temp\tmpo0myoiqu\BlockApps-Showcase
+2025-05-09 19:53:13,536 - repo-hosting - INFO - Attempting to deploy https://github.com/manideepv28/BlockApps-Showcase.git to render
+2025-05-09 19:53:13,888 - repo-hosting - INFO - Creating a fallback index.html page
+2025-05-09 19:53:13,911 - repo-hosting - INFO - Creating Render site: blockapps-showcase-1746800593
+2025-05-09 19:53:14,215 - repo-hosting - INFO - Render deployment configuration: {
+  "type": "static_site",
+  "name": "blockapps-showcase-1746800593",
+  "ownerId": "tea-d0dij51r0fns7399evvg",
+  "repo": "https://github.com/manideepv28/BlockApps-Showcase.git",
+  "branch": "master",
+  "buildCommand": "npm run build",
+  "publishDirectory": "."
+}
+2025-05-09 19:53:17,980 - repo-hosting - INFO - Created Render site: https://blockapps-showcase-1746800593.onrender.com
+2025-05-09 19:53:17,981 - repo-hosting - INFO - Waiting for Render deployment to start...
+2025-05-09 19:53:28,468 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:53:38,900 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:53:49,370 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:53:59,856 - repo-hosting - INFO - Waiting 10 seconds before checking deployment status again...
+2025-05-09 19:54:07,264 - repo-hosting - WARNING - 
+Deployment interrupted by user. Partial results may have been saved.
+2025-05-09 20:08:04,823 - repo-hosting - INFO - Validating Netlify API token...
